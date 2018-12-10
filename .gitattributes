@@ -1,2 +1,3 @@
-* linguist-vendored
+LICENSE.md linguist-vendored
+README.md linguist-vendored
 *.php linguist-vendored=false
