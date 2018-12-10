@@ -1,3 +1,4 @@
 *.md linguist-vendored
-
+*.php linguist-detectable=true
 *.php linguist-vendored=false
+*.php linguist-language=php
