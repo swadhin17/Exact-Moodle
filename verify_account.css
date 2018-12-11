@@ -1,0 +1,114 @@
+#row1
+{
+    margin-top: 100px;
+/*
+    border: 1px solid brown;
+    border-top: 50px solid brown;
+*/
+    border-radius: 10px;
+}
+#col1
+{
+/*    height: 50px;*/
+/*    border: 1px solid brown;*/
+}
+#input1
+{
+    height: 50px;
+    box-shadow: 0px 0px 0px;
+    border: 1px solid brown;    
+    margin: 12px 0px;
+}
+#moodle_layout
+{
+/*    border: 1px solid brown;*/
+/*    border-top: 20px solid brown ; */
+/*    height: 100px;*/
+}
+#moodle_inner_layout
+{
+    border: 1px solid brown;
+    border-top: 40px solid #ce8a8a;
+    border-radius: 5px;
+    margin:0px 0px;
+    padding: 0px 20px;
+/*    height: 400px;*/
+    
+}
+#verify_button
+{
+    border: 1px solid brown;
+    height: 50px;
+    background-color: brown;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin-top: 000px;
+    border-radius: 0px 0px 10px 10px;    
+}
+#moodle_header
+{
+/*    text-align: center;*/
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: brown;
+}
+#input1:hover  , #input2:hover
+{
+    border: 1px solid brown;
+    border-radius: 5px;
+    background-color:white;
+    height: 50px;
+    box-shadow: 0px 0px 0px;
+    transition: .5s;
+}
+#moodle_login
+{
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1px;
+    border: 1px solid white;
+    background-color: #d9b2b2;
+}
+#moodle_login:hover
+{
+    color: brown;
+    font-weight: 700;
+    letter-spacing: 1px;
+    border: 1px solid brown;
+    background-color: white;
+}
+input[type=text]
+{
+    color: brown;
+}
+.create_para , .forgot_para
+{
+    margin-top: 10px;
+    color: brown;
+}
+.new_account , .username_para
+{
+/*    font-style: italic;*/
+    font-weight: 600;
+    text-decoration: none;
+    color: firebrick;
+}
+.link:hover
+{
+    text-decoration: none;
+}
+.warning_otp
+{
+    padding-left: 10px;
+    color: brown;
+/*    margin-top: 10px;*/
+    letter-spacing: 2px;    
+}
+#otp_button
+{
+    margin-left: 30px;
+    border: 1px solid brown;
+    color: brown;
+    letter-spacing: 2px;
+}
