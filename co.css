@@ -1,0 +1,9 @@
+html
+{
+    padding-top: 70px;
+}
+#link1 , #link2, #link3, #link4, #link5 , #link6
+{
+    padding: 20px 10px;
+    font-size: 30px;
+}
