@@ -1,0 +1,21 @@
+.outer_layer
+{
+	border: 1px solid lightgrey;
+	border-top: 50px solid lightgrey;
+	border-right/*: 20px solid lightgrey;
+	border-left: 20px solid lightgrey;
+	border-botto*/m : 20px solid lightgrey;
+	border-radius: 10px;
+}
+.question , .question_name
+{
+	width: 90%;
+	margin: 0 auto;
+	padding: 10px 0px;
+}
+.question_name
+{
+	font-weight: 700;
+	font-size: 14px;
+	/*letter-spacing: 2px;*/
+}
